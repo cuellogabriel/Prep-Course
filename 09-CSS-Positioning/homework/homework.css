@@ -49,5 +49,5 @@ text-align: center;
 
 ejercicioSeiete {
     display: flex;
-    flex-direction: column;
+    align-self: ;
 }

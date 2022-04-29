@@ -252,7 +252,7 @@ module.exports = {
   nuevaResta,
   nuevaMultiplicacion,
   nuevoModulo,
-  devolverString,
+  devolverString, 
   tienenMismaLongitud,
   sonIguales,
   menosQueNoventa,
@@ -278,5 +278,5 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal,
+  esVocal, 
 }
