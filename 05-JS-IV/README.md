@@ -42,10 +42,10 @@ A diferencia de las matrices que tienen elementos valorados en índices, los obj
 
 ```javascript
 const user = {
-    username: 'juan.perez',
-    password: 'loremipsumpwd123',
+    username: 'gabriel cuello',
+    password: 'wartzad',
     lovesJavascript: true,
-    favoriteNumber: 42
+    favoriteNumber: 22
 };
 ```
 
